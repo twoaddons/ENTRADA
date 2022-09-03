@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR blue]|||[/COLOR] [COLOR white] BEM VINDOS-TWO ADD-ONS [/COLOR] [COLOR blue]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR indigo]***[/COLOR][COLOR blue][/COLOR][COLOR blue]|||[/COLOR] [COLOR white] BEM VINDOS-TWO ADD-ONS [/COLOR] [COLOR blue]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR indigo]***[/COLOR]</name>
 <thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
 <info>
