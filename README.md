@@ -3,7 +3,7 @@
 <channels>
 <channel>
 <name>[COLOR indigo]***[/COLOR] [COLOR white] BEM VINDOS-TWO ADD-ONS [/COLOR][COLOR blue][/COLOR][COLOR indigo]***[/COLOR]</name>
-<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
+<thumbnail>https://ia601507.us.archive.org/4/items/two-addons-bm-vindos/two%20addons%20BM%20VINDOS.jpg</thumbnail>
 <fanart>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</fanart>
 <info>
 [COLOR blue]|[/COLOR] -TODO CONTEÚDO DESSE EDDONS FOI EXTRAÍDO DENTRO DO GOOGLE, OU SEJA, ESTA VIA DOMÍNIO PÚBLICO. NÃO ME RESPONSABILIZO POR FINS LUCRATIVOS DE TERCEIROS. - [COLOR deeppink]|[/COLOR]</info>
