@@ -16,5 +16,3 @@
 <info>[COLOR blue]*[COLOR lime]Bem vindo ao TWO ADD-ONS  BR -TODO CONTEÚDO DESSE EDDONS FOI EXTRAÍDO DENTRO DA GOOGLE, OU SEJA, ESTA VIA DOMÍNIO PÚBLICO. NÃO ME RESPONSABILIZO POR FINS LUCRATIVOS DE TERCEIROS[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/twoaddons/ENTRADA/main/categoria.xml</externallink>
 </channel>
-
-
