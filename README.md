@@ -14,5 +14,5 @@
 <thumbnail>https://ia601508.us.archive.org/14/items/two-addons-entre/two%20addons%20ENTRE.jpg</thumbnail>
 <fanart></fanart>
 <info>[COLOR blue]*[COLOR lime]Bem vindo ao TWO ADD-ONS  BR -TODO CONTEÚDO DESSE EDDONS FOI EXTRAÍDO DENTRO DA GOOGLE, OU SEJA, ESTA VIA DOMÍNIO PÚBLICO. NÃO ME RESPONSABILIZO POR FINS LUCRATIVOS DE TERCEIROS[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/twoaddons/ENTRADA/main/categoria.xml</externallink>
+<externallink>https://github.com/twoaddons/CATEGORIA/blob/main/README.md</externallink>
 </channel>
